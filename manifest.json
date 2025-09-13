@@ -3,7 +3,7 @@
   "name": "SearXNG — Privacy Search Engine",
   "version": "1.5.1",
   "author": "Erghel",
-  "default_locale": "br",
+  "default_locale": "pt-BR",
   "description": "__MSG_extensionDescription__",
   "icons": {
     "48": "searxng48.webp"
